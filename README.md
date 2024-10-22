@@ -22,7 +22,7 @@ Rule Engine UI is a web application that allows users to create, combine, and ev
 Before you begin, ensure you have the following installed on your machine:
 - **Node.js** (version 14 or later)
 - **npm** (comes with Node.js)
-- **Docker** (for containerized dependencies)
+- **Redis** (for storing metadata)
 - **Git** (to clone the repository)
 
 ## Installation
